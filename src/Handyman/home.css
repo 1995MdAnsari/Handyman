@@ -1,0 +1,29 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.btn{
+    width: 100%;
+    outline: none;
+    cursor: pointer;
+}
+
+.card{
+    
+    border-radius: 5px;
+    background-image: url('../images/vegetable.png');
+}
+.card-body{
+    text-align: left;
+    height: 6.25rem;
+}
+
+.items{
+    line-height: 0;
+}
+
+.message {
+    padding-left: .5rem;
+
+}
